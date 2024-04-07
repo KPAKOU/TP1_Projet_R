@@ -1,0 +1,1 @@
+•	Dans ce TP nous passons en revue les notions du cours sur la manipulation de bases des données notamment l'importation, la labellisation, le recodage, ainsi que les statistiques descriptives, les graphiques et la cartagrophie
